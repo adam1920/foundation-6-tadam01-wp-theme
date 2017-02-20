@@ -1,4 +1,4 @@
-Foundation 6 Tadam01 WOrdpress Theme
+Foundation 6 Tadam01 Wordpress Theme
 
 Beautiful wordpress theme built on Foundation 6. 
 
@@ -12,10 +12,10 @@ Beautiful wordpress theme built on Foundation 6.
 **[Releases](#releases)**  
 
 ### Live Demo
-Live Demo <a href="http://www.01.tadam.co.il/">here</a>
+Live Demo [here](http://www.01.tadam.co.il/)
 
 ### Documentation
-Full documentation <a href="http://docs.01.tadam.co.il/">here</a>
+Full documentation [here](http://docs.01.tadam.co.il/)
 
 ### Installation
 1. Download this repository.
@@ -24,10 +24,10 @@ Full documentation <a href="http://docs.01.tadam.co.il/">here</a>
 ```
 Appearence > Themes > Add New
 ```
-Choose tadam01.zip file
+Choose `tadam01.zip` file
 
 
-To install child theme choose tadam01-child.zip
+To install child theme choose `tadam01-child.zip`
 
 ### Features
 + Fluid grid system. 
